@@ -1,6 +1,7 @@
-# Gamethon-3.0-Jit
+# Gamethon-3.0-Jit 2020
 
 Won 1st place 
-![Gamethon2021](https://user-images.githubusercontent.com/83496915/160255949-93be93d6-230c-44b8-ac2f-fa21ec8f8937.jpg)
 
 
+
+[Gamethon 2020.pdf](https://github.com/prajwalmadhav/Gamethon-3.0-Jit/files/8356284/Gamethon.2020.pdf)
